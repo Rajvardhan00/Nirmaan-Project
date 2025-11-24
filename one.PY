@@ -2,7 +2,7 @@
 Student Introduction Evaluator
 Complete implementation in a single file
 Author: Your Name
-Date: November 2024
+Date: November 2025
 
 Requirements:
 pip install streamlit pandas openpyxl vaderSentiment language-tool-python nltk
